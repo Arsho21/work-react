@@ -1,0 +1,30 @@
+.header{
+    background-color: #07869d;
+    display: flex;
+    justify-content: space-between;
+    /* box-shadow:  ; */
+}
+
+
+.img{
+    width: 100px;
+    height: 30px;
+    box-shadow: -1px 1px 39px 6px rgba(173, 26, 10, 0.48);;
+}
+
+.Logo{
+    font-size: 30px;
+    color: rgb(4, 255, 0);
+}
+
+.login{
+    text-decoration: none;
+    color: rgb(225, 255, 2);
+    font-size: 25px;
+}
+
+.register{
+    text-decoration: none;
+    color: rgb(189, 249, 12);
+    font-size: 25px;
+}

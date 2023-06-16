@@ -1,0 +1,56 @@
+.App {
+  text-align: center;
+  
+}
+
+body {
+  background: #07869d;
+}
+
+
+.formInput{
+  margin-top: 200px;
+}
+
+
+.inputtext{
+  width: 350px;
+  height: 30px;
+  border-radius: 5px;
+}
+
+.Add{
+  height: 30px;
+  margin-left: 5px;
+  border-radius: 5px;
+}
+
+.completed{
+  font-size: 14px;
+}
+
+.clearCompleted{
+  font-size: 12px;
+  border-radius: 5px;
+  margin-top: 10px;
+  margin-left: 5px;
+  background-color: aqua;
+}
+
+.Add{
+  background-color: aqua;
+}
+
+.spanButton{
+  margin-left: 14%;
+}
+
+.todoimg{
+  width: 175px;
+  height: 175px;
+  box-shadow: -1px 1px 39px 6px rgba(0, 76, 72, 0.48);
+}
+
+.h1{
+  color: rgb(238, 255, 0);
+}
