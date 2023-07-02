@@ -7,7 +7,7 @@ function TodoList({todos, onChange, onDelete}) {
        {
         todos.map((todo) => {
           return(
-            <TodoItem key={todo.id} todo={todo}
+            <TodoItem key={todo._id} todo={todo}
               onChange={onChange}
               onDelete={onDelete}
             />
